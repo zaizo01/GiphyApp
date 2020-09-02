@@ -1,7 +1,7 @@
 import React from 'react'
 import { Ghiphygriditem } from './GhiphyGridItem';
 import { useFetchGiphy } from '../hooks/useFetchGiphy';
-import { getGiphy } from '../helpers/getGiphys';
+
 
 export const GhiphyGrid = ( { category } ) => {
 
